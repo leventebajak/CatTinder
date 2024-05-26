@@ -1,0 +1,11 @@
+{
+  "@@locale": "hu",
+  "likedCatsTitle": "Kedvelt macskák",
+  "dislikedCatsTitle": "Nem kedvelt macskák",
+  "noLikedCats": "Még nincs kedvelt macskád",
+  "noDislikedCats": "Még nincs nem kedvelt macskád",
+  "swipeHint": "Húzd jobbra a kedveléshez, vagy nyomd meg a szívet",
+  "likedTab": "Kedvelt",
+  "dislikedTab": "Nem kedvelt",
+  "homeTab": "Kezdőlap"
+}

@@ -1,0 +1,43 @@
+{
+  "@@locale": "en",
+  "likedCatsTitle": "Liked Cats",
+  "@likedCatsTitle": {
+    "description": "Title of the liked cats page",
+    "context": "GalleryPage"
+  },
+  "dislikedCatsTitle": "Disliked Cats",
+  "@dislikedCatsTitle": {
+    "description": "Title of the disliked cats page",
+    "context": "GalleryPage"
+  },
+  "noLikedCats": "You haven't liked any cats yet",
+  "@noLikedCats": {
+    "description": "Message displayed when the user hasn't liked any cats",
+    "context": "GalleryPage"
+  },
+  "noDislikedCats": "You haven't disliked any cats yet",
+  "@noDislikedCats": {
+    "description": "Message displayed when the user hasn't disliked any cats",
+    "context": "GalleryPage"
+  },
+  "swipeHint": "To like a picture of a cat, press the heart or swipe right",
+  "@swipeHint": {
+    "description": "Hint displayed to the user to like a cat",
+    "context": "CardsPage"
+  },
+  "likedTab": "Liked",
+  "@likedTab": {
+    "description": "Label of the liked cats button in the navigation bar",
+    "context": "CustomNavigationBar"
+  },
+  "dislikedTab": "Disliked",
+  "@dislikedTab": {
+    "description": "Label of the disliked cats button in the navigation bar",
+    "context": "CustomNavigationBar"
+  },
+  "homeTab": "Home",
+  "@homeTab": {
+    "description": "Label of the home button in the navigation bar",
+    "context": "CustomNavigationBar"
+  }
+}
